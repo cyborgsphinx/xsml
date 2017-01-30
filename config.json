@@ -27,7 +27,22 @@
       "topics": []
     },
     {
+      "slug": "flatten-array",
+      "difficulty": 1,
+      "topics": []
+    },
+    {
       "slug": "hamming",
+      "difficulty": 1,
+      "topics": []
+    },
+    {
+      "slug": "raindrops",
+      "difficulty": 1,
+      "topics": []
+    },
+    {
+      "slug": "nth-prime",
       "difficulty": 1,
       "topics": []
     }
